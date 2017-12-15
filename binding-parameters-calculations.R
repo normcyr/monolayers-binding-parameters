@@ -11,7 +11,7 @@
 
 
 # Import data from CSV file
-df <- read.table("DOPG-LdPEX14.csv", header = TRUE, sep = ",")
+df <- read.table("example-data.csv", header = TRUE, sep = ",")
 
 # Create the standard error function
 se <- function(x) sqrt(var(x)/length(x))
