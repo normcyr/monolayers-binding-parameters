@@ -14,7 +14,7 @@ We provide you with an example data set (`example-data.csv`) which can also be d
 
 Your data has to be provided as a `csv` file where the first line corresponds to headers. Alternatively, you may modify the R script to suit your data format.
 
-The script will read your data and generate a ΔΠ * vs Π<sub>i</sub> plot like the following:
+The script will read your data and generate a ΔΠ vs Π<sub>i</sub> plot like the following:
 
 ![alt text][plot]
 
